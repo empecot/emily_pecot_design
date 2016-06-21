@@ -1,0 +1,120 @@
+.mirror_pic {
+	background-image: url("../");
+	width: 100%;
+	height: auto;
+	opacity: .68;
+	margin-bottom: -9px;
+	border: double 4px #0E8E9F;
+}
+.mirror_inset {
+	width: 441px;
+    height: 232px;
+    background-color: #DFE1CC;
+    position: absolute;
+    bottom: 16.8em;
+    left: 25.6em;
+}
+.name {
+	color: #0E8E9F;
+    font-family: "Jenna Sue", serif;
+    font-size: 113px;
+    position: absolute;
+    bottom: 3.3em;
+    left: 4.2em;
+}
+
+.design {
+    color: #0E8E9F;
+    font-family: "Bernardo Moda", serif;
+    font-size: 35px;
+    position: absolute;
+    bottom: 10em;
+    left: 18.6em;
+}
+
+.nav {
+	color: #0E8E9F;
+    font-family: "Bernardo Moda", serif;
+    font-size: 50px;
+    position: absolute;
+	list-style-type: none;
+    bottom: -.8em;
+    left: 5.5em;
+}
+li {
+	display: inline;
+	padding-right: 3em;
+	width: 10em;
+}
+
+a:link {
+	text-decoration: none;
+
+}
+
+
+.about_page {
+	width: 100%;
+	height: 44em;
+	background-color: white;
+}
+		.oval_pic {
+			position: absolute;
+    		top: 55em;
+    		left: 44em;
+		}
+
+		.about_blurb {
+			position: relative;
+    		top: 4.8em;
+    		left: 8em;
+		}
+				.about_header {
+					color: #0E8E9F;
+    				font-family: "Jenna Sue", serif;
+    				font-size: 47px;
+    				margin-left: 0.5em;
+    				letter-spacing: 3px;
+				}
+				.about_header2 {
+					color: #0E8E9F;
+					font-family: "Bernardo Moda", serif;
+				    font-size: 20px;
+    				margin-top: -45px;
+    				margin-left: 12.3em;
+    			}
+    			.about_body {
+    				width: 35%;
+    				position: absolute;
+    				left: 1.7em;
+    				color: #666666;
+    				font-size: 14px;
+    				font-family: "Big Caslon", serif;
+    			}
+
+.portfolio_page {
+	width: 100%;
+	height: 44em;
+	background-color: #0b7583;
+}
+
+.contact_page {
+	width: 100%;
+	height: 44em;
+	background-color: white;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
