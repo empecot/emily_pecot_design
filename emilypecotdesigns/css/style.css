@@ -1,3 +1,7 @@
+body {
+    background-color: #f6f6e4;
+}
+
 .mirror_pic {
 	background-image: url("../");
 	width: 100%;
@@ -19,7 +23,7 @@
     font-family: "Jenna Sue", serif;
     font-size: 113px;
     position: absolute;
-    bottom: 3.3em;
+    bottom: 3.1em;
     left: 4.2em;
 }
 
@@ -28,7 +32,7 @@
     font-family: "Bernardo Moda", serif;
     font-size: 35px;
     position: absolute;
-    bottom: 10em;
+    bottom: 9.4em;
     left: 18.6em;
 }
 
@@ -41,7 +45,7 @@
     bottom: -.8em;
     left: 5.5em;
 }
-li {
+.nav_icon {
 	display: inline;
 	padding-right: 3em;
 	width: 10em;
@@ -56,7 +60,9 @@ a:link {
 .about_page {
 	width: 100%;
 	height: 44em;
-	background-color: white;
+	background-color: #f6f6e4;
+    opacity: .85;
+    margin-top: -2em;
 }
 		.oval_pic {
 			position: absolute;
@@ -94,17 +100,63 @@ a:link {
 
 .portfolio_page {
 	width: 100%;
-	height: 44em;
+	height: 60em;
 	background-color: #0b7583;
+    margin-top: -2.3em;
+    margin-bottom: 3em;
 }
+        .skills_header {
+            padding-top: 1em;
+            color: #f6f6e4;
+            font-family: "Jenna Sue", serif;
+            font-size: 47px;
+            margin-left: 2.5em;
+            letter-spacing: 3px;
+        }
+        .skills {
+            color: #f6f6e4;
+            font-family: "Open Sans", serif;
+            font-size: 16px;
+            position: absolute;
+            list-style-type: none;
+            left: 14em;
+        }
+        .skills_title {
+            padding-right: 4em;
+            display: inline;
+            width: 10em;
+        }
+        .selected_work_header {
+            padding-top: 2em;
+            color: #f6f6e4;
+            font-family: "Jenna Sue", serif;
+            font-size: 47px;
+            margin-left: 2.5em;
+            letter-spacing: 3px;
+        }
+
+.coding_furiously_first{
+    height: 14em;
+    margin-left: 8em;
+    margin-bottom: 3em;
+}
+.coding_furiously {
+    height: 14em;
+    margin-left: 4em;
+    margin-bottom: 3em;
+}
+
 
 .contact_page {
 	width: 100%;
 	height: 44em;
-	background-color: white;
 	}
 
-
+.contact_page_pic {
+    width: 100%;
+    opacity: .4;
+    margin-top: 6em;
+}
 
 
 
